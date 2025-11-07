@@ -1,3 +1,6 @@
+-- Angel carmichael
+-- 11/7/2025
+
 select * from Fortress1;
 select * from Fortress2;
 
